@@ -21,7 +21,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /Uptimer
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Baronhez Status
   introTitle: "This page allows me to check if my pages are fully operational :)"
   introMessage: The code used for this page is from this [GitHub repository](https://github.com/upptime/upptime).
   navbar:
