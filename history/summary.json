@@ -4,9 +4,9 @@
     "url": "https://jonthan.xyz",
     "icon": "https://favicons.githubusercontent.com/jonthan.xyz",
     "slug": "web-page-cv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "95.90%",
+    "uptimeDay": "95.88%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/netdata.jonthan.xyz",
     "slug": "netdata-dashboard",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "95.44%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.63%",
+    "uptimeDay": "89.98%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 859,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 859,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2022-03-12": 66
+      "2022-03-12": 144
     }
   },
   {
