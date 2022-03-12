@@ -7,8 +7,6 @@ sites:
     url: https://jonthan.xyz
   - name: Server Dashboard
     url: https://server.jonthan.xyz
-  - name: Netdata dashboard
-    url: https://netdata.jonthan.xyz
   - name: Speedtest on my server
     url: https://speedtest.jonthan.xyz
 
