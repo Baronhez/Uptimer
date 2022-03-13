@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/jonthan.xyz",
     "slug": "web-page-cv",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "95.31%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.85%",
+    "uptimeDay": "95.90%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 4154,
     "timeDay": 6347,
     "timeWeek": 6347,
     "timeMonth": 4154,
     "timeYear": 4154,
     "dailyMinutesDown": {
-      "2022-03-13": 9,
       "2022-03-12": 59
     }
   },
@@ -25,10 +24,10 @@
     "url": "https://server.jonthan.xyz",
     "icon": "https://favicons.githubusercontent.com/server.jonthan.xyz",
     "slug": "server-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "95.93%",
-    "uptimeWeek": "99.42%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
     "time": 2157,
@@ -37,6 +36,7 @@
     "timeMonth": 2157,
     "timeYear": 2157,
     "dailyMinutesDown": {
+      "2022-03-13": 1,
       "2022-03-12": 59
     }
   },
