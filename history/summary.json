@@ -4,19 +4,19 @@
     "url": "https://jonthan.xyz",
     "icon": "https://favicons.githubusercontent.com/jonthan.xyz",
     "slug": "web-page-cv",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "95.16%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 3918,
     "timeDay": 5737,
     "timeWeek": 5737,
     "timeMonth": 3918,
     "timeYear": 3918,
     "dailyMinutesDown": {
-      "2022-03-13": 11,
+      "2022-03-13": 1,
       "2022-03-12": 59
     }
   },
@@ -25,9 +25,9 @@
     "url": "https://server.jonthan.xyz",
     "icon": "https://favicons.githubusercontent.com/server.jonthan.xyz",
     "slug": "server-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "94.08%",
+    "uptimeDay": "94.04%",
     "uptimeWeek": "99.15%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
@@ -37,7 +37,7 @@
     "timeMonth": 2097,
     "timeYear": 2097,
     "dailyMinutesDown": {
-      "2022-03-13": 27,
+      "2022-03-13": 28,
       "2022-03-12": 59
     }
   },
@@ -47,18 +47,18 @@
     "icon": "https://favicons.githubusercontent.com/speedtest.jonthan.xyz",
     "slug": "speedtest-on-my-server",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "95.30%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.80%",
+    "uptimeDay": "94.59%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 3064,
     "timeDay": 5994,
     "timeWeek": 5994,
     "timeMonth": 3064,
     "timeYear": 3064,
     "dailyMinutesDown": {
-      "2022-03-13": 10,
+      "2022-03-13": 20,
       "2022-03-12": 58
     }
   }
