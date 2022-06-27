@@ -9,6 +9,15 @@ sites:
     url: https://server.jonthan.xyz
   - name: Speedtest on my server
     url: https://speedtest.jonthan.xyz
+  - name: Bookmark Manager on my server
+    url: https://linkding.jonthan.xyz
+  - name: Filebrowser on my server
+    url: https://filebrowser.jonthan.xyz
+  - name: Actual on my server
+    url: https://actual.jonthan.xyz
+  - name: Traefik Dashboard on my server
+    url: https://traefik.jonthan.xyz
+    
 
 assignees: # Users to assign downtime issues (optional)
   - Baronhez
